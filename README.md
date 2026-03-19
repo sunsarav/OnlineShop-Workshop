@@ -1,8 +1,8 @@
 ## Online Shop - Workshop ##
 
 ##### Here comes output of the project #####
-
-<pre> ```bashHello and welcome to the Simple Online Store!
+## 🖥️ Output
+Hello and welcome to the Simple Online Store!
 
 Customer Name : Shamu
 Email-Id : shamu07@gmail.com
@@ -41,4 +41,4 @@ Products Ordered
 
 7 - I-Pad costs 4000.59
 8 - TV costs 10000.99
-Total costs for Ordered Items : 14001,58 SEK``` </pre>
+Total costs for Ordered Items : 14001,58 SEK
