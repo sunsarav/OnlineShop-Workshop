@@ -2,7 +2,7 @@
 
 ##### Here comes output of the project #####
 ## 🖥️ Output
-Hello and welcome to the Simple Online Store!
+``` Hello and welcome to the Simple Online Store!
 
 Customer Name : Shamu
 Email-Id : shamu07@gmail.com
@@ -14,6 +14,7 @@ Products Ordered
 Total costs for Ordered Items : 161,58 SEK
 
 ----------------
+
 Customer Name : Ragavi
 Email-Id : ragavi@gmail.com
 
@@ -24,6 +25,7 @@ Products Ordered
 Total costs for Ordered Items : 871,68 SEK
 
 ----------------
+
 Customer Name : Sikdar
 Email-Id : sikdar@gmail.com
 
@@ -34,6 +36,7 @@ Products Ordered
 Total costs for Ordered Items : 31001,68 SEK
 
 ----------------
+
 Customer Name : Muthana
 Email-Id : muthana@gmail.com
 
@@ -42,3 +45,4 @@ Products Ordered
 7 - I-Pad costs 4000.59
 8 - TV costs 10000.99
 Total costs for Ordered Items : 14001,58 SEK
+```
