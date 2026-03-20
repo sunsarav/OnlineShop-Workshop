@@ -1,4 +1,4 @@
-## Online Shop - Workshop ##
+## Online Shop ##
 
 ##### Here comes output of the project #####
 ## 🖥️ Output
