@@ -28,6 +28,9 @@ public class Product {
     }
 
     public void setProductName(String productName) {
+        if (productName == null || productName.isEmpty()) {
+            throw new IllegalArgumentException("Product name cannot be empty");
+        }
         this.productName = productName;
     }
 

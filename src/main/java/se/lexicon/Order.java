@@ -28,6 +28,9 @@ public class Order {
 
     //Method to connect a Customer to an Order
     public void setCustomer(Customer customer) {
+        if (customer == null) {
+            throw new IllegalArgumentException("Order must have a customer");
+        }
         this.customer = customer;
     }
     //Method to Add Products to the Order
